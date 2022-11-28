@@ -7,6 +7,9 @@ RESOURCES:
           
           https://data-class-mars-challenge.s3.amazonaws.com/Mars/index.html
          ![image](https://user-images.githubusercontent.com/111711194/204311988-7e55615a-7957-47de-8ef1-6bba9d0ee88c.png)
+Python notebook for web scrapping:
+1.  part_1_mars_news.ipynb
+2.  part_2_mars_weather.ipynb
 
 # Mars_Challenge
 The aim of this project is to apply full web-scraping for the mission to Mars by collecting data, organizing and storing data, analyzing data, and then visually communicating our insights.
